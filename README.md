@@ -10,7 +10,7 @@ Search URL: https://www.omdbapi.com/?s={MOVIE_NAME}&apikey={API_KEY}
 Movie Details URL: https://www.omdbapi.com/?i={MOVIE_ID}&apikey={API_KEY}
 
 # Icons & Font -
-Icons: ayushkul/react-movie-app
+Icons: vaishnavwalke/react-movie-app
 Font Link: <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
 
 # Libraries used
